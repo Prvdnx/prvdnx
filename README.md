@@ -10,6 +10,9 @@
 
 I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currently pursuing the advanced core curriculum at [42 Bangkok](https://www.42bangkok.com/). I'm passionate about new technologies and innovative solutions. I'm also actively seeking internship and on-site/remote work opportunities.
 
+See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
+
+
 - 🔭 I’m currently diving deep into mobile/web development with JS frameworks and others, as well as web hosting. 
 - 🌱 Expanding my knowledge of C (and C++) for embedded systems and firmware development.
 - 👯 I’m open to collaborate on projects
