@@ -8,13 +8,13 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 
-I'm a dabbler in code and a 42 graduate currently pursuing the advanced core curriculum at 42 Bangkok. I'm passionate about new technologies and innovative solutions. I'm also actively seeking on-site/remote work and internship opportunities.
+I'm a dabbler in code and a 42 graduate currently pursuing the advanced core curriculum at 42 Bangkok. I'm passionate about new technologies and innovative solutions. I'm also actively seeking internship and on-site/remote work opportunities.
 
 - 🔭 I’m currently diving deep into mobile/web development with JS frameworks and others, as well as web hosting. 
 - 🌱 Expanding my knowledge of C (and C++) for embedded systems and firmware development.
 - 👯 I’m open to collaborate on projects
 - 📫 Do not hesitate to reach out if you have any questions or suggestions.
-- ⚡ Fun fact: I'm something of a Cybersecurity enthusiast.
+- ⚡ Fun fact: I'm something of a Cybersecurity enthusiast myself.
 
 <br><h2 align="left">💻 Tech Stack</h2>
 
