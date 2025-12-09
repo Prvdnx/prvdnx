@@ -53,21 +53,21 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 
 <h2 align="center">connect with me</h2>  
 <div align="center">
-<a href="https://github.com/Prvdnx" target="_blank">
+<!-- <a href="https://github.com/Prvdnx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.com" target="_blank">
+</a> -->
+<a href="https://discord.com/users/967592597767983158" target="_blank">
 <img src=https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
-<a href="https://telegram.org" target="_blank">
+<a href="https://t.me/daprvdnx" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:mr.okamonu@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://linkedin.com" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 <br><p align="center">
