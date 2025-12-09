@@ -16,9 +16,7 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 - 📫 Do not hesitate to reach out if you have any questions or suggestions.
 - ⚡ Fun fact: I'm something of a Cybersecurity enthusiast.
 
-###
-
-<h2 align="center">💻 Tech Stack</h2>
+<br><h2 align="center">💻 Tech Stack</h2>
 
 ###
 
