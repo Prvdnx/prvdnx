@@ -29,7 +29,13 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
   <img width="14" />
+  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=css" height="33" alt="css logo"  />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/expo/000020" height="33" alt="expo logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo"  />
   <img width="14" />
@@ -48,6 +54,8 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" height="33" alt="logstash logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="33" alt="kibana logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  />
 </div>
 
 
