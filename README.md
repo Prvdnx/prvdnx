@@ -50,7 +50,7 @@ I'm a dabbler in code and a 42 graduate currently pursuing the advanced core cur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="33" alt="kibana logo"  />
 </div>
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/ookamonu">
