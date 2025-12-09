@@ -21,44 +21,47 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="33" alt="c logo"  />
+<em>Click on the icons to learn more about them</em><br/>
+
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="33" alt="c logo"  /></a>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="33" alt="cplusplus logo"  />
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="33" alt="cplusplus logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  /></a>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  /></a>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="33" alt="html logo"  /></a>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="33" alt="css logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="33" alt="css logo"  /></a>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/expo/000020" height="33" alt="expo logo"  />
+  <a href="https://expo.dev/" target="_blank"><img src="https://cdn.simpleicons.org/expo/000020" height="33" alt="expo logo"  /></a>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo"  />
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  /></a>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="33" alt="docker logo"  />
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" height="33" alt="docker logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="33" alt="grafana logo"  />
+  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="33" alt="grafana logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="33" alt="prometheus logo"  />
+  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="33" alt="prometheus logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="33" alt="elasticsearch logo"  />
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="33" alt="elasticsearch logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" height="33" alt="logstash logo"  />
+  <a href="https://www.elastic.co/logstash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" height="33" alt="logstash logo"  /></a>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="33" alt="kibana logo"  />
+  <a href="https://www.elastic.co/kibana/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="33" alt="kibana logo"  /></a>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  />
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  /></a>
 </div>
 
 
+<br/>
 <h2 align="center">connect with me</h2>  
 <div align="center">
 <!-- <a href="https://github.com/Prvdnx" target="_blank">
@@ -78,7 +81,7 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 </a>
 </div>  
   
-<br><p align="center">
+<br/><p align="center">
   <a href="https://profile.intra.42.fr/users/ookamonu">
     <img src="https://badge.mediaplus.ma/kettlebells/ookamonu?1337Badge=off&UM6P=off" alt="ookamonu">
   </a>
