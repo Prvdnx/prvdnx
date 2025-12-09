@@ -49,15 +49,15 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
   <img width="8" />
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" height="33" alt="docker logo"  /></a>
   <img width="8" />
-  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="33" alt="grafana logo"  /></a>
-  <img width="8" />
-  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="33" alt="prometheus logo"  /></a>
-  <img width="8" />
   <a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="33" alt="elasticsearch logo"  /></a>
   <img width="8" />
   <a href="https://www.elastic.co/logstash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" height="33" alt="logstash logo"  /></a>
   <img width="8" />
   <a href="https://www.elastic.co/kibana/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="33" alt="kibana logo"  /></a>
+  <img width="8" />
+  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="33" alt="grafana logo"  /></a>
+  <img width="8" />
+  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.simpleicons.org/prometheus/E6522C" height="33" alt="prometheus logo"  /></a>
   <img width="8" />
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  /></a>
 </div>
