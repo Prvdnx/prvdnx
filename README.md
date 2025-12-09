@@ -22,39 +22,39 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="33" alt="c logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="33" alt="cplusplus logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="33" alt="html logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="33" alt="css logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/expo/000020" height="33" alt="expo logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="33" alt="docker logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="33" alt="grafana logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="33" alt="prometheus logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="33" alt="elasticsearch logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" height="33" alt="logstash logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="33" alt="kibana logo"  />
-  <img width="14" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  />
 </div>
 
