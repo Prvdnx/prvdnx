@@ -62,7 +62,7 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 </div>
 
 
-<br/>
+<!-- <br/> -->
 <h2 align="center">connect with me</h2>  
 <div align="center">
 <!-- <a href="https://github.com/Prvdnx" target="_blank">
