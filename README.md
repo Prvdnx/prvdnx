@@ -83,7 +83,8 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 </a>
 </div>  
   
-<br/><p align="center">
+<br/>
+<p align="center">
   <a href="https://profile.intra.42.fr/users/ookamonu">
     <img src="https://badge.mediaplus.ma/kettlebells/ookamonu?1337Badge=off&UM6P=off" alt="ookamonu">
   </a>
