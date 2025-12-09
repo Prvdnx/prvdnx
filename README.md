@@ -21,7 +21,8 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 ###
 
 <div align="center">
-<em>Click on the icons to learn more about them</em><br/>
+<em>Click on the icons to learn more about them</em>
+<br/><br/>
 
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="33" alt="c logo"  /></a>
   <img width="10" />
