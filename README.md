@@ -7,16 +7,62 @@
 </p>
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
+
+I'm a dabbler in code and a 42 graduate currently pursuing the advanced core curriculum at 42 Bangkok. I'm passionate about new technologies and innovative solutions. I'm also actively seeking on-site/remote work and internship opportunities.
+
+- 🔭 I’m currently diving deep into mobile/web development with JS frameworks and others, as well as web hosting. 
+- 🌱 Expanding my knowledge of C (and C++) for embedded systems and firmware development.
+- 👯 I’m open to collaborate on projects
+- 📫 Do not hesitate to reach out if you have any questions or suggestions.
+- ⚡ Fun fact: I'm something of a Cybersecurity enthusiast.
+
+<h2 align="left">💻 Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="33" alt="c logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="33" alt="cplusplus logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="33" alt="git logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="33" alt="github logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="33" alt="docker logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="33" alt="grafana logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="33" alt="prometheus logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="33" alt="elasticsearch logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" height="33" alt="logstash logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="33" alt="kibana logo"  />
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://profile.intra.42.fr/users/ookamonu">
     <img src="https://badge.mediaplus.ma/kettlebells/ookamonu?1337Badge=off&UM6P=off" alt="ookamonu">
   </a>
 </p>
 
+<br clear="both">
 
-<!-- ## Hi there 👋 -->
 
-<!--
+<!-- ## Hi there 👋
+
 **Prvdnx/prvdnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,6 +73,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
