@@ -16,8 +16,7 @@ I'm a dabbler in code and a 42 graduate currently pursuing the advanced core cur
 - 📫 Do not hesitate to reach out if you have any questions or suggestions.
 - ⚡ Fun fact: I'm something of a Cybersecurity enthusiast.
 
-<br>
-<h2 align="left">💻 Tech Stack</h2>
+<br><h2 align="left">💻 Tech Stack</h2>
 
 ###
 
