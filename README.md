@@ -14,7 +14,7 @@ I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currentl
 - 🌱 Expanding my knowledge of C (and C++) for embedded systems and firmware development.
 - 👯 I’m open to collaborate on projects
 - 📫 Do not hesitate to reach out if you have any questions or suggestions.
-- ⚡ Fun fact: I'm something of a Cybersecurity enthusiast.
+- ⚡ Fun fact: I'm also something of a Cybersecurity enthusiast.
 
 <br><h2 align="center">💻 Tech Stack</h2>
 
