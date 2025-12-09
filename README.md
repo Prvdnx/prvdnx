@@ -59,7 +59,7 @@ I'm a dabbler in code and a 42 graduate currently pursuing the advanced core cur
   </a>
 </p>
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 
 <!-- ## Hi there 👋
