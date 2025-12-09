@@ -7,6 +7,13 @@
 </p>
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/ookamonu">
+    <img src="https://badge.mediaplus.ma/kettlebells/ookamonu?1337Badge=off&UM6P=off" alt="ookamonu">
+  </a>
+</p>
+
+
 <!-- ## Hi there 👋 -->
 
 <!--
