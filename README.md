@@ -2,9 +2,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif" align="center" style="width: 100%" />
 </div>
 
-<a href="https://git.io/typing-svg" class="auto-type" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile+%F0%9F%91%8B;I+hope+You+like+it+." alt="Typing SVG" align="center" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg" class="auto-type"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile+%F0%9F%91%8B;I+hope+You+like+it+." alt="Typing SVG" /></a>
+</div>
 
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **Prvdnx/prvdnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
