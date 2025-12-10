@@ -66,11 +66,11 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
 </div>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvdnx&layout=compact&theme=vision-friendly-dark" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prvdnx&theme=vision_friendly_dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Prvdnx&show_icons=true&theme=vision-friendly-dark" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prvdnx&theme=vision_friendly_dark" />
 </a>
 </div>
 
