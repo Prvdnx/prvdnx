@@ -65,8 +65,16 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  /></a>
 </div>
 
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prvdnx&layout=compact&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Prvdnx&show_icons=true&theme=vision-friendly-dark" />
+</a>
+</div>
 
-<!-- <br/> -->
+<br/>
 <h2 align="center">📬 Connect with me</h2>  
 <div align="center">
 <!-- <a href="https://github.com/Prvdnx" target="_blank">
