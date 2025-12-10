@@ -67,7 +67,7 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Prvdnx&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Prvdnx Stats" /></picture></a>
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Prvdnx&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Prvdnx Top Langs" /></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Prvdnx&hide_title=false&layout=compact&theme=gotham&count_private=true&hide=Roff,Objective-C" alt="Prvdnx Top Langs" /></picture></a>
 </p>
 
 <br/>
