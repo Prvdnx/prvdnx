@@ -80,12 +80,12 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
 </a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/transparent/3-stats.svg" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/transparent/4-productive-time.svg" />
-</a>
+</a> -->
 </div>
 
 <br/>
