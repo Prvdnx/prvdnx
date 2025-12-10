@@ -88,7 +88,7 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
 </a> -->
 </div>
 
-<br/>
+<!-- <br/> -->
 <h2 align="center">📬 Connect with me</h2>  
 <div align="center">
 <a href="https://discord.com/users/967592597767983158" target="_blank">
