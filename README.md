@@ -71,11 +71,20 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
 </p> -->
 
 <div align="center">
+<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/transparent/0-profile-details.svg" />
+</a> -->
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" />
+  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" />
+  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/transparent/3-stats.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 </a>
 </div>
 
