@@ -65,25 +65,10 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  /></a>
 </div>
 
-<!-- Stats for only public repositories -->
-<div align="center">
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prvdnx&theme=vision_friendly_dark" />
-</a>
-<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prvdnx&theme=vision_friendly_dark" />
-  </a> -->
-</div>
-
-<!-- Stats including private repositories -->
-<!-- <div align="center">
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" />
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" />
-</a>
-</div> -->
+<p align="center">
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Prvdnx&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Prvdnx Stats" /></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Prvdnx&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Prvdnx Top Langs" /></picture></a>
+</p>
 
 <br/>
 <h2 align="center">📬 Connect with me</h2>  
