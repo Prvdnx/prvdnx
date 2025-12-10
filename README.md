@@ -65,21 +65,29 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  /></a>
 </div>
 
+<!-- Stats for only public repositories -->
 <div align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prvdnx&theme=vision_friendly_dark" />
 </a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prvdnx&theme=vision_friendly_dark" />
-</a>
+  </a> -->
 </div>
+
+<!-- Stats including private repositories -->
+<!-- <div align="center">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/Prvdnx/prvdnx/main/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg" />
+</a>
+</div> -->
 
 <br/>
 <h2 align="center">📬 Connect with me</h2>  
 <div align="center">
-<!-- <a href="https://github.com/Prvdnx" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> -->
 <a href="https://discord.com/users/967592597767983158" target="_blank">
 <img src=https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
