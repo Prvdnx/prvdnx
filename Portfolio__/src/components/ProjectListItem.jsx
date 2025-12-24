@@ -1,0 +1,51 @@
+import React from "react";
+
+const ProjectListItem = ({ project }) => {
+    return (
+        <div className="grid grid-cols-1 gap-6 p-6 mb-6 border md:grid-cols-2 rounded-xl border-white/10 bg-gradient-to-r from-indigo to-storm hover-animation">
+            {/* Left: Project Image */}
+            <div className="flex flex-col">
+                <img
+                    src={project.image}
+                    alt={project.title}
+                    className="object-cover w-full h-64 rounded-lg"
+                />
+                {/* Tech Stack Logos */}
+                <div className="flex flex-wrap gap-2 mt-4">
+                    {project.tags.map((tag) => (
+                        <div
+                            key={tag.id}
+                            className="flex items-center gap-1 px-2 py-1 rounded bg-white/10"
+                        >
+                            <img src={tag.path} alt={tag.name} className="w-4 h-4" />
+                            <span className="text-xs text-neutral-300">{tag.name}</span>
+                        </div>
+                    ))}
+                </div>
+            </div>
+
+            {/* Right: Project Details */}
+            <div className="flex flex-col justify-between">
+                <div>
+                    <h3 className="mb-2 text-2xl font-bold">{project.title}</h3>
+                    <p className="mb-4 text-neutral-300">{project.description}</p>
+                </div>
+
+                {/* GitHub Link */}
+                {project.href && (
+                    <a
+                        href={project.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-2 mt-4 text-sm transition-colors text-neutral-300 hover:text-white w-fit"
+                    >
+                        <img src="/assets/logos/github.svg" alt="GitHub" className="w-5 h-5" />
+                        <span>See Sourcecode →</span>
+                    </a>
+                )}
+            </div>
+        </div>
+    );
+};
+
+export default ProjectListItem;
