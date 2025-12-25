@@ -2,13 +2,13 @@ import React from "react";
 
 const ProjectListItem = ({ project }) => {
     return (
-        <div className="grid grid-cols-1 gap-6 p-6 mb-6 border md:grid-cols-2 rounded-xl border-white/10 bg-gradient-to-r from-indigo to-storm hover-animation">
+        <div className="grid grid-cols-1 gap-6 p-6 mb-6 border md:grid-cols-3 rounded-xl border-white/10 bg-gradient-to-r from-indigo to-storm hover-animation">
             {/* Left: Project Image */}
             <div className="flex flex-col">
                 <img
                     src={project.image}
                     alt={project.title}
-                    className="object-cover w-full h-64 rounded-lg"
+                    className="object-contain w-full h-32 rounded-lg"
                 />
                 {/* Tech Stack Logos */}
                 <div className="flex flex-wrap gap-2 mt-4">
@@ -25,7 +25,7 @@ const ProjectListItem = ({ project }) => {
             </div>
 
             {/* Right: Project Details */}
-            <div className="flex flex-col justify-between">
+            <div className="flex flex-col justify-between md:col-span-2">
                 <div>
                     <h3 className="mb-2 text-2xl font-bold">{project.title}</h3>
                     <p className="mb-4 text-neutral-300">{project.description}</p>

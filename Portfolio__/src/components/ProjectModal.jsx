@@ -20,7 +20,7 @@ const ProjectModal = ({ isOpen, onClose, category }) => {
                         animate={{ scale: 1, opacity: 1 }}
                         exit={{ scale: 0.95, opacity: 0 }}
                         transition={{ type: "spring", damping: 25, stiffness: 300 }}
-                        className="relative w-full h-[95vh] overflow-hidden rounded-2xl bg-primary"
+                        className="relative w-full max-w-6xl h-[95vh] overflow-hidden rounded-2xl bg-primary"
                         onClick={(e) => e.stopPropagation()}
                     >
                         {/* Header with Close Button */}
