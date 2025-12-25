@@ -147,7 +147,7 @@ export const myProjects = [
         href: "https://github.com/Prvdnx/42-CORE/tree/main/Advanced%20Core/MOBILE%20PISCINE",
         tags: [
           { id: 1, name: "React Native", path: "/assets/logos/react.svg" },
-          { id: 2, name: "Expo", path: "/assets/logos/react.svg" },
+          { id: 2, name: "Expo", path: "/assets/logos/expo.svg" },
         ],
       },
       {
@@ -209,7 +209,7 @@ export const myProjects = [
         href: "https://github.com/Prvdnx/42-CORE/tree/main/Advanced%20Core/MOBILE%20PISCINE/mobileModule00/calculator_app",
         tags: [
           { id: 1, name: "React Native", path: "/assets/logos/react.svg" },
-          { id: 2, name: "Expo", path: "/assets/logos/react.svg" },
+          { id: 2, name: "Expo", path: "/assets/logos/expo.svg" },
         ],
       },
       {
@@ -220,7 +220,7 @@ export const myProjects = [
         href: "https://github.com/Prvdnx/42-CORE/tree/main/Advanced%20Core/MOBILE%20PISCINE/mobileModule03/advanced_weather_app",
         tags: [
           { id: 1, name: "React Native", path: "/assets/logos/react.svg" },
-          { id: 2, name: "Expo", path: "/assets/logos/react.svg" },
+          { id: 2, name: "Expo", path: "/assets/logos/expo.svg" },
         ],
       },
       {
@@ -231,7 +231,7 @@ export const myProjects = [
         href: "https://github.com/Prvdnx/42-CORE/tree/main/Advanced%20Core/MOBILE%20PISCINE/mobileModule05/advanced_diary_app",
         tags: [
           { id: 1, name: "React Native", path: "/assets/logos/react.svg" },
-          { id: 2, name: "Expo", path: "/assets/logos/react.svg" },
+          { id: 2, name: "Expo", path: "/assets/logos/expo.svg" },
         ],
       },
       // Add more mobile projects here
