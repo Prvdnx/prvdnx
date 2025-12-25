@@ -143,7 +143,7 @@ export const myProjects = [
   },
   {
     id: 2,
-    category: "Web Development",
+    category: "Web Dev",
     description: "Modern, responsive, and performant web applications built with the latest technologies.",
     projects: [
       {
