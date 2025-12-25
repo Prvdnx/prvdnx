@@ -31,18 +31,36 @@ const ProjectListItem = ({ project }) => {
                     <p className="mb-4 text-neutral-300">{project.description}</p>
                 </div>
 
-                {/* GitHub Link */}
-                {project.href && (
-                    <a
-                        href={project.href}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="flex items-center gap-2 mt-4 text-sm transition-colors text-neutral-300 hover:text-white w-fit"
-                    >
-                        <img src="/assets/logos/github.svg" alt="GitHub" className="w-5 h-5" />
-                        <span>See Sourcecode →</span>
-                    </a>
-                )}
+                {/* Links Container */}
+                <div className="flex flex-wrap gap-4 mt-4">
+                    {/* Demo Link */}
+                    {project.demo && (
+                        <a
+                            href={project.demo}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="flex items-center gap-2 text-sm transition-colors text-neutral-300 hover:text-white w-fit"
+                        >
+                            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                            </svg>
+                            <span>View Demo →</span>
+                        </a>
+                    )}
+
+                    {/* GitHub Link */}
+                    {project.href && (
+                        <a
+                            href={project.href}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="flex items-center gap-2 text-sm transition-colors text-neutral-300 hover:text-white w-fit"
+                        >
+                            <img src="/assets/logos/github.svg" alt="GitHub" className="w-5 h-5" />
+                            <span>See Sourcecode →</span>
+                        </a>
+                    )}
+                </div>
             </div>
         </div>
     );

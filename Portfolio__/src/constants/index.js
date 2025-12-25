@@ -170,6 +170,19 @@ export const myProjects = [
     projects: [
       {
         id: 201,
+        title: "HTML/CSS/JS Practice Projects",
+        description: "Collection of 16 interactive web applications showcasing frontend fundamentals and API integrations.",
+        image: "/assets/projects/auth-system.jpg",
+        href: "https://github.com/Prvdnx/BE_CODESISTENT/tree/main/Practice%20-%20HTML%20%7C%20CSS%20%7C%20JS",
+        demo: "https://prvdnxpractice.netlify.app/practice%20-%20html%20%7C%20css%20%7C%20js/",
+        tags: [
+          { id: 1, name: "HTML5", path: "/assets/logos/html5.svg" },
+          { id: 2, name: "CSS3", path: "/assets/logos/css3.svg" },
+          { id: 3, name: "JavaScript", path: "/assets/logos/javascript.svg" },
+        ],
+      },
+      {
+        id: 202,
         title: "Portfolio Website",
         description: "Personal portfolio showcasing projects with interactive 3D elements.",
         image: "/assets/projects/auth-system.jpg",
