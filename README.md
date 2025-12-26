@@ -103,6 +103,9 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
 <a href="https://www.linkedin.com/in/oghenefega-o-530894273" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://prvdnx.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 <br/>
