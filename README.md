@@ -8,7 +8,7 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
 
-I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currently pursuing the advanced core curriculum at [42 Bangkok](https://www.42bangkok.com/). I'm passionate about new technologies and innovative solutions. I'm also actively seeking internship and on-site/remote work opportunities.
+I'm a dabbler in code and a [42](https://42.fr/en/network-42/) graduate currently pursuing the advanced core curriculum at [42 Bangkok](https://www.42bangkok.com/). I'm passionate about new technologies and innovative solutions. I'm also actively seeking internship and on-site/remote work opportunities. 
 
 See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
 
