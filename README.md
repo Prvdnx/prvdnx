@@ -18,6 +18,7 @@ See my 42 Projects here:  [👉 42 CORE](https://github.com/Prvdnx/42-CORE.git)
 <img src=https://img.shields.io/badge/Credly-%23FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white alt=credly style="margin-bottom: 5px;" />
 </a>
 
+###
 - 🔭 I’m currently diving deep into mobile/web development with JS frameworks and others, as well as web hosting. 
 - 🌱 Expanding my knowledge of C (and C++) for embedded systems and firmware development.
 - 👯 I’m open to collaborate on projects
