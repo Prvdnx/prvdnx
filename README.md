@@ -9,9 +9,14 @@
 
 
 I'm a dabbler in code and a [42](https://www.42network.org/) graduate currently pursuing the advanced core curriculum at [42 Bangkok](https://www.42bangkok.com/). I'm passionate about new technologies and innovative solutions. I'm also actively seeking internship and on-site/remote work opportunities.
+See my 42 Projects here:  [👉 42 CORE](https://github.com/Prvdnx/42-CORE.git)
 
-See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
-
+<a href="https://ookamonu.pages.dev/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.credly.com/users/oghenefega-okamonu.3e456b56" target="_blank">
+<img src=https://img.shields.io/badge/Credly-%23FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white alt=credly style="margin-bottom: 5px;" />
+</a>
 
 - 🔭 I’m currently diving deep into mobile/web development with JS frameworks and others, as well as web hosting. 
 - 🌱 Expanding my knowledge of C (and C++) for embedded systems and firmware development.
@@ -103,9 +108,7 @@ See my 42 Projects here: [42 CORE](https://github.com/Prvdnx/42-CORE.git)
 <a href="https://www.linkedin.com/in/oghenefega-o-530894273" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://prvdnx.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a>
+
 </div>  
   
 <br/>
