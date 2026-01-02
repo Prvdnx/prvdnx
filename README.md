@@ -14,7 +14,7 @@ See my 42 Projects here:  [👉 42 CORE](https://github.com/Prvdnx/42-CORE.git)
 <a href="https://ookamonu.pages.dev/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.credly.com/users/oghenefega-okamonu.3e456b56" target="_blank">
+<a href="https://www.credly.com/users/oghenefega-o" target="_blank">
 <img src=https://img.shields.io/badge/Credly-%23FF6B00.svg?&style=for-the-badge&logo=credly&logoColor=white alt=credly style="margin-bottom: 5px;" />
 </a>
 
